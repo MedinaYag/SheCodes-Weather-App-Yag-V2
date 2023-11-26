@@ -1,0 +1,39 @@
+.container {
+  display: block;
+  margin: auto;
+}
+.Container {
+  text-align: left;
+}
+.sun {
+  font-size: 60px;
+  text-align: center;
+  margin-block: -15px;
+}
+.Berlin {
+  font-weight: 400;
+  font-size: 18px;
+  color: blue;
+}
+.additional {
+  text-align: right;
+  text-indent: 80px;
+  color: blue;
+}
+uL {
+  list-style: none;
+  line-height: normal;
+  text-align: left;
+}
+.weatherForecast {
+  text-align: center;
+}
+.emojis {
+  font-size: 35px;
+}
+.border.border-2 {
+  position: fixed;
+  text-align: center;
+  padding: 20px;
+  margin: 40px;
+}
